@@ -53,7 +53,7 @@ Assets/
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/Horror-Survival-Game.git
+   git clone [https://github.com/yourusername/Horror-Survival-Game.git]
 
 2. Open the project in Unity Hub.
 
