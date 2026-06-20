@@ -65,11 +65,12 @@ Assets/
 
 ## 📸 Screenshots
 
-Add gameplay screenshots and environment images here.
+<img src="Screenshots/horror-survival-1.png" width="700">
+<img src="Screenshots/horror-survival-2.png" width="700">
+<img src="Screenshots/horror-survival-3.png" width="700">
+<img src="Screenshots/horror-survival-4.png" width="700">
 
-## 🎥 Gameplay Demo
 
-Add a gameplay video or YouTube link here.
 
 ## 🎯 Learning Outcomes
 
