@@ -71,12 +71,12 @@ Assets/
 <img src="Screenshots/horror-survival-2.png" width="700">
 <img src="Screenshots/horror-survival-3.png" width="700">
 <img src="Screenshots/horror-survival-4.png" width="700">
-<img src="Screenshots/horror-survival-5.png" width="700">
+<img src="Screenshots/horror-survival-10.png" width="700">
 <img src="Screenshots/horror-survival-6.png" width="700">
 <img src="Screenshots/horror-survival-7.png" width="700">
 <img src="Screenshots/horror-survival-8.png" width="700">
 <img src="Screenshots/horror-survival-9.png" width="700">
-<img src="Screenshots/horror-survival-10.png" width="700">
+<img src="Screenshots/horror-survival-5.png" width="700">
 
 
 
