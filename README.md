@@ -6,6 +6,8 @@ A first-person horror survival game developed using **Unity 3D** and **C#**, whe
 
 The game focuses on creating an immersive horror experience through atmospheric environments, suspenseful gameplay, and survival mechanics. Players must carefully navigate through the game world, uncover clues, and make strategic decisions to stay alive.
 
+<img src="Screenshots/horror-survival-1.png" width="700">
+
 ## ✨ Features
 
 * First-Person Horror Gameplay
@@ -69,6 +71,12 @@ Assets/
 <img src="Screenshots/horror-survival-2.png" width="700">
 <img src="Screenshots/horror-survival-3.png" width="700">
 <img src="Screenshots/horror-survival-4.png" width="700">
+<img src="Screenshots/horror-survival-5.png" width="700">
+<img src="Screenshots/horror-survival-6.png" width="700">
+<img src="Screenshots/horror-survival-7.png" width="700">
+<img src="Screenshots/horror-survival-8.png" width="700">
+<img src="Screenshots/horror-survival-9.png" width="700">
+<img src="Screenshots/horror-survival-10.png" width="700">
 
 
 
